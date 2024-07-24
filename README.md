@@ -1,4 +1,4 @@
-# Let's KIK!
+# Let's KIK!!
 
 #
 ## Runc and containerazed app https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction#containerized__components
@@ -253,5 +253,6 @@ vim Container
 	    --git-revision master \
 	    --service-account serv-acct1 \
 	    --image index.docker.io/denvasyliev/k8s-art-k 
+
 
 
